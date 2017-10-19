@@ -1,7 +1,13 @@
 # rime
 
-rime 输入法配置
+
+## 配置
 
 - 开启各种候选输入法
-- 添加 Rime 擴充詞庫 (https://github.com/rime-aca/dictionaries)
-- 添加 自然码2000 码表
+- 添加 Rime 擴充詞庫
+- 添加 自然码2000 码表 （支持辅码）
+
+## 致谢
+
+瑾昀 <cokunhui@gmail.com> ， 提供扩充词库
+
