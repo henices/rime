@@ -1,5 +1,6 @@
 # rime
 
+中州韻輸入法引擎  https://rime.im/  by 佛振@式恕堂
 
 ## 配置
 
