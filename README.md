@@ -11,6 +11,8 @@
 ## 皮肤 
 - 添加 一套小清新的 fcitx-rime 皮肤
 
+  ![fcitx rime](https://github.com/henices/rime/raw/master/image/fcitx-rime.png) 
+
 ## 致谢
 
 - 瑾昀 <cokunhui@gmail.com> ， 提供扩充词库
