@@ -15,6 +15,7 @@
 
 ## 致谢
 
+- 佛振 [@lotem](https://github.com/lotem), 开发中州韻輸入法引擎
 - 瑾昀 <cokunhui@gmail.com> ， 提供扩充词库
 - 周志农先生，自然码2009新春版
 
