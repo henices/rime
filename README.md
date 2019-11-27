@@ -4,10 +4,10 @@
 
 ## 配置
 
-- 开启各种候选输入法
-- 添加 Rime 擴充詞庫
-- 添加 自然码2000 码表 （支持辅码）
-- 支持各种符号输入 （例如： ☆ ）
+- 开启各种候选输入法    (default.custom.yaml)
+- 添加 Rime 擴充詞庫   (luna_pinyin.extended.dict.yaml)
+- 添加 自然码2000 码表 （支持辅码 zrm2000*.yaml）
+- 支持各种符号输入     （例如： ☆  symbols.yaml）
 
 ## 皮肤 
 - 添加 一套小清新的 fcitx-rime 皮肤
