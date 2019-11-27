@@ -14,9 +14,13 @@
 
   ![fcitx rime](https://github.com/henices/rime/raw/master/image/fcitx-rime.png) 
 
+### 使用皮肤
+
+将 mac-gray 目录 copy 到 ~/.config/fcitx/skin/mac-gray
+
 ## 致谢
 
 - 佛振 [@lotem](https://github.com/lotem), 开发中州韻輸入法引擎
-- 瑾昀 <cokunhui@gmail.com> ， 提供扩充词库
+- 瑾昀 <cokunhui@gmail.com> ， 提供扩充词库~
 - 周志农先生，自然码2009新春版
 
