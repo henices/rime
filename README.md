@@ -16,8 +16,8 @@ luna_pinyin.extended.dict.yaml
 ### 4. 支持各种符号输入
 symbols.yaml
 
-## 皮肤 
-- 添加 一套小清新的 fcitx-rime 皮肤
+## 皮肤
+- 添加 一套小清新的 fcitx-rime 皮肤 （适用于 fcitx4)
 
 ![fcitx rime](https://github.com/henices/rime/raw/master/image/fcitx-rime.png) 
 
