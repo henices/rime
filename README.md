@@ -4,15 +4,26 @@
 
 ## 配置
 
-- 开启各种候选输入法
-- 添加 Rime 擴充詞庫
-- 添加 自然码2000 码表 （支持辅码）
-- 支持各种符号输入 （例如： ☆ ）
+### 1. 开启各种候选输入法
+default.custom.yaml
+
+### 2. 添加 Rime 擴充詞庫
+luna_pinyin.extended.dict.yaml
+
+### 3. 添加 自然码2000 码表
+支持辅码  zrm2000*.yaml
+
+### 4. 支持各种符号输入
+symbols.yaml
 
 ## 皮肤 
 - 添加 一套小清新的 fcitx-rime 皮肤
 
-  ![fcitx rime](https://github.com/henices/rime/raw/master/image/fcitx-rime.png) 
+![fcitx rime](https://github.com/henices/rime/raw/master/image/fcitx-rime.png) 
+
+### 使用皮肤
+
+将 mac-gray 目录 copy 到 ~/.config/fcitx/skin/mac-gray
 
 ## 致谢
 
